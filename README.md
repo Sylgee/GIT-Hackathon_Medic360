@@ -29,6 +29,6 @@ regulators. She would need you to help her build:
 ### :dart: Scope
 This repository only covers:
 * Data cleaning techniques used on the data set.
-* Data Training and Testing using appropriate machine learning algorithms.
+* Data Training and Testing process, using appropriate machine learning algorithms.
 * Calculation of Accuracy Score.
 * Visualizations, using appropriate libraries.
